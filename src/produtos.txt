@@ -1,0 +1,3 @@
+1;caneta;5.0;17
+3;lapiseira;7.0;15
+3;lapis;3.0;20
